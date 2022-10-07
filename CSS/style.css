@@ -1,0 +1,107 @@
+.top-banner {
+    height: 80vh;
+    background-color: gray;
+    background-image: url("/image/banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner-row {
+    height: 80vh;
+}
+
+.card-bg {
+    background-color: #5A5A5A;
+}
+
+.cust-title {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.cust-desc {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.nav-cust {
+    background-color: #c5aa6a;
+}
+
+.ul-cust {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.about-cust {
+    background-color: #85dcb8;
+}
+
+.cust-col-1 {
+    padding: 60px 50px;
+}
+
+.cust-image {
+    width: 277px;
+    height: 277px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+.cust-edu {
+    background-color: #FBEEC1;
+    padding-bottom: 40px;
+}
+
+.circle-1 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: #8EE4AF;
+    margin: auto;
+}
+
+.cust-contact {
+    background-color: #63666A;
+}
+
+.box {
+    border: 2px white solid;
+}
+
+.cust-footer {
+    background-color: #A9A9A9;
+}
+
+.cust-text-footer {
+    padding: 30px 0px 10px;
+    font-size: 1.3rem;
+}
+
+.icon-box {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #fff;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.footer-icon {
+    font-size: 1.6rem;
+    color: #000;
+}
+
+.tdn {
+    text-decoration: none;
+}
+
+.icon-box:hover {
+    background-color: #000;
+}
+
+.icon-box:hover .footer-icon {
+    color: #fff;
+}
